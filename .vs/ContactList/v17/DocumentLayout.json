@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomekk\\Downloads\\ContactList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\wwwroot\\js\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\wwwroot\\js\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\models\\contacttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\models\\contacttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\models\\contactwithauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\models\\contactwithauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\services\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\services\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|c:\\users\\tomekk\\downloads\\contactlist\\contactlist\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6A1E66E-09E1-4332-8786-1AF079B3728E}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactList\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T20:39:29.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "services.js",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\js\\services.js",
+              "RelativeDocumentMoniker": "ContactList\\wwwroot\\js\\services.js",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\js\\services.js",
+              "RelativeToolTip": "ContactList\\wwwroot\\js\\services.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAtwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-31T20:47:38.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactList\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactList\\Models\\Contact.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:36:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactList\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactList\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwIIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:42:12.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactType.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\ContactType.cs",
+              "RelativeDocumentMoniker": "ContactList\\Models\\ContactType.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\ContactType.cs",
+              "RelativeToolTip": "ContactList\\Models\\ContactType.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:47:23.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ContactList\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ContactList\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAApwEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:26:42.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactWithAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\ContactWithAuth.cs",
+              "RelativeDocumentMoniker": "ContactList\\Models\\ContactWithAuth.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\ContactWithAuth.cs",
+              "RelativeToolTip": "ContactList\\Models\\ContactWithAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:08:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContactList\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ContactList\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:43:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Program.cs",
+              "RelativeDocumentMoniker": "ContactList\\Program.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Program.cs",
+              "RelativeToolTip": "ContactList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:07:12.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Services\\AuthProvider.cs",
+              "RelativeDocumentMoniker": "ContactList\\Services\\AuthProvider.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Services\\AuthProvider.cs",
+              "RelativeToolTip": "ContactList\\Services\\AuthProvider.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAtwGYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:08:01.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:06:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ContactList\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ContactList\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-31T20:41:41.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

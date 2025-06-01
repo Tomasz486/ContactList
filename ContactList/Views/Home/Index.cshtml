@@ -1,0 +1,149 @@
+<html>
+<head>
+	<title>Lista kontaktów</title>
+
+	<script src="js/services.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+
+	<link rel="stylesheet" href="css/site.css">
+</head>
+
+<body ng-app="" ng-controller="contactController" ng-init="getContactList()">
+	<h2> Lista kontaktów </h2>
+	<div>
+
+		<table>
+			<tr>
+				<th> Imię </th>
+				<th> Nazwisko </th>
+			</tr>
+
+			<tr ng-repeat="contact in contacts" ng-click="selectContact(contact)">
+				<td>{{ contact.contactName }}</td>
+				<td>{{ contact.surname }}</td>
+			</tr>
+		</table>
+	</div>
+
+	<br />
+
+	<input ng-click="action = 'CreateUser'" ng-hide="token" type="button" value="Utwórz konto" />
+	<input ng-click="action = 'LogIn'" ng-hide="token" type="button" value="Zaloguj" />
+	<input ng-click="newContact()" ng-show="token" type="button" value="Dodaj kontakt" />
+	<input ng-click="logOut()" ng-show="token" type="button" value="Wyloguj" />
+
+	<div id="message">
+		{{ message }}
+	</div>
+
+	<div ng-hide="action !== 'SelectContact'">
+		<h3> Szczegóły kontaktu </h3>
+		<table>
+			<tr>
+				<td> Imię: </td>
+				<td> {{ selectedContact.contactName }} </td>
+			</tr>
+			<tr>
+				<td> Nazwisko: </td>
+				<td> {{ selectedContact.surname }} </td>
+			</tr>
+			<tr>
+				<td> E-mail: </td>
+				<td> {{ selectedContact.email }} </td>
+			</tr>
+			<tr>
+				<td> Telefon: </td>
+				<td> {{ selectedContact.phone }} </td>
+			</tr>
+			<tr>
+				<td> Rodzaj: </td>
+				<td> {{ selectedContact.type }} </td>
+			</tr>
+			<tr>
+				<td> Data urodzenia: </td>
+				<td> {{ selectedContact.dayOfBirth }} </td>
+			</tr>
+		</table>
+		<button ng-click="editContact(selectedContact)">Edytuj</button>
+		<button ng-click="deleteContact(selectedContact)">Usuń</button>
+	</div>
+	<br />
+
+	<form name="contactForm" ng-hide="action !== 'contactForm' && action !== 'EditContact'" ng-submit="saveContact()">
+		<h3> {{ action === 'contactForm' ? "Dodaj kontakt" : "Edytuj kontakt" }} </h3>
+		<table>
+			<tr>
+				<td> Imię: </td>
+				<td><input type="text" ng-model="contactForm.contactName" required></td>
+			</tr>
+			<tr>
+				<td> Nazwisko: </td>
+				<td><input type="text" ng-model="contactForm.surname" required></td>
+			</tr>
+			<tr>
+				<td> E-mail: </td>
+				<td>
+					<input type="email" ng-model="contactForm.email" required>
+				</td>
+			</tr>
+			<tr>
+				<td> Telefon: </td>
+				<td>
+					<input type="text" ng-pattern="/^(\+48)?\s?\d{9}$/" name="phoneField" ng-model="contactForm.phone" required>
+			        <span ng-show="contactForm.phoneField.$error.pattern">Nieprawidłowy numer telefonu.</span>
+				</td>
+			</tr>
+			<tr>
+				<td> Rodzaj: </td>
+				<td>
+					<select ng-change="changeType()" ng-model="selectedType" ng-options="type for type in contactTypes" />
+					<input type="text" ng-show="selectedType === 'inny'" ng-model="contactForm.type">
+				</td>
+			</tr>
+			<tr>
+				<td> Data urodzenia: </td>
+				<td><input type="date" ng-model="contactForm.dayOfBirth" required></td>
+			</tr>
+		</table>
+		<input ng-disabled="contactForm.$invalid" type="submit" value="Zapisz" />
+	</form>
+
+	<form name="createUserForm" ng-hide="action !== 'CreateUser'" ng-submit="createUser()">
+		<h3> Utwórz konto </h3>
+		<table>
+			<tr>
+				<td> Login: </td>
+				<td><input type="text" ng-model="createUserForm.login" required></td>
+			</tr>
+			<tr>
+				<td> Hasło: </td>
+				<td><input type="password" ng-model="createUserForm.password" required></td>
+			</tr>
+			<tr>
+				<td> Powtórz hasło: </td>
+				<td><input type="password" match-password="user.password" ng-model="createUserForm.confirmPassword" required></td>
+			</tr>
+		</table>
+		
+		<div ng-show="createUserForm.password !== createUserForm.confirmPassword">
+			Hasła muszą być takie same.
+		</div>
+		<input type="submit" ng-disabled="createUserForm.password !== createUserForm.confirmPassword" value="Utwórz konto" />
+	</form>
+
+	<form ng-hide="action !== 'LogIn'" ng-submit="logIn()">
+		<h3> Zaloguj </h3>
+		<table>
+			<tr>
+				<td> Login: </td>
+				<td><input type="text" ng-model="loginForm.login" required></td>
+			</tr>
+			<tr>
+				<td> Hasło: </td>
+				<td><input type="password" ng-model="loginForm.password" required></td>
+			</tr>
+		</table>
+		<input type="submit" value="Zaloguj" />
+	</form>
+</body>
+</html>

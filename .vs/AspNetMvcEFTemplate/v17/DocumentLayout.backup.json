@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|c:\\users\\tomekk\\downloads\\aspnetmvceftemplate_solution_withdb\\aspnetmvceftemplate\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|solutionrelative:aspnetmvceftemplate\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|c:\\users\\tomekk\\downloads\\aspnetmvceftemplate_solution_withdb\\aspnetmvceftemplate\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|solutionrelative:aspnetmvceftemplate\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|c:\\users\\tomekk\\downloads\\aspnetmvceftemplate_solution_withdb\\aspnetmvceftemplate\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|solutionrelative:aspnetmvceftemplate\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|c:\\users\\tomekk\\downloads\\aspnetmvceftemplate_solution_withdb\\aspnetmvceftemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD49D478-0679-4985-95F6-897D34FA4CF8}|AspNetMvcEFTemplate\\AspNetMvcEFTemplate.csproj|solutionrelative:aspnetmvceftemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AspNetMvcEFTemplate\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AspNetMvcEFTemplate\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:07:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetMvcEFTemplate\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "AspNetMvcEFTemplate\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T09:04:49.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "AspNetMvcEFTemplate\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "AspNetMvcEFTemplate\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:00:45.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetMvcEFTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Tomekk\\Downloads\\AspNetMvcEFTemplate_Solution_WithDb\\AspNetMvcEFTemplate\\Program.cs",
+              "RelativeToolTip": "AspNetMvcEFTemplate\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:58:23.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

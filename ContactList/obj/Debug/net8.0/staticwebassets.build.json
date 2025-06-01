@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "QKqSCzx8M3JpVWe+3e8rF85fmn2apy6GeQoEupyw+QE=",
+  "Source": "ContactList",
+  "BasePath": "_content/ContactList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactList\\wwwroot",
+      "Source": "ContactList",
+      "ContentRoot": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\",
+      "BasePath": "_content/ContactList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\css\\site.css",
+      "SourceId": "ContactList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\",
+      "BasePath": "_content/ContactList",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "00ww2ndzbq",
+      "Integrity": "AAhnmqRIc8yHUVCa1jr+/rSebFQELqqfM21oJwt9Cvc=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\js\\services.js",
+      "SourceId": "ContactList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\",
+      "BasePath": "_content/ContactList",
+      "RelativePath": "js/services#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv6wqn3qip",
+      "Integrity": "3LBryoKmL+FMy9gUHoglvkPIg0gqFcDzAXLuF9+cTeE=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\services.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.00ww2ndzbq.css",
+      "AssetFile": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAhnmqRIc8yHUVCa1jr+/rSebFQELqqfM21oJwt9Cvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 20:41:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "00ww2ndzbq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAhnmqRIc8yHUVCa1jr+/rSebFQELqqfM21oJwt9Cvc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAhnmqRIc8yHUVCa1jr+/rSebFQELqqfM21oJwt9Cvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 20:41:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAhnmqRIc8yHUVCa1jr+/rSebFQELqqfM21oJwt9Cvc="
+        }
+      ]
+    },
+    {
+      "Route": "js/services.js",
+      "AssetFile": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\js\\services.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3LBryoKmL+FMy9gUHoglvkPIg0gqFcDzAXLuF9+cTeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 09:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LBryoKmL+FMy9gUHoglvkPIg0gqFcDzAXLuF9+cTeE="
+        }
+      ]
+    },
+    {
+      "Route": "js/services.wv6wqn3qip.js",
+      "AssetFile": "C:\\Users\\Tomekk\\Downloads\\ContactList\\ContactList\\wwwroot\\js\\services.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3LBryoKmL+FMy9gUHoglvkPIg0gqFcDzAXLuF9+cTeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 09:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv6wqn3qip"
+        },
+        {
+          "Name": "label",
+          "Value": "js/services.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LBryoKmL+FMy9gUHoglvkPIg0gqFcDzAXLuF9+cTeE="
+        }
+      ]
+    }
+  ]
+}
